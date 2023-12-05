@@ -1,0 +1,19 @@
+body {
+    background-image: url("wgrand.jpg");
+    background-size:cover
+    }
+
+    p{
+        color:rgb(247, 231, 6)
+        
+    }
+    .signup-container{
+        margin-top:325px;
+        background-color: rgba(20, 19, 19, 0.829);
+        max-width: 200px;
+        align-items: center;
+        border-color: black;        
+        border-radius: 8px;
+        flex-direction: column;
+
+    }
